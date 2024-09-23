@@ -19,3 +19,19 @@
 
 - alert(''): Cria um Pop-up com informações com apenas um botão 'OK'.
 - Prompt(''): Cria um Pop-up com instrução e um espaço para coletar dados do client.
+
+## Tipos Primitivos
+
+Existem tipos primitivos de dados para ser usado em varáveis, algumas delas são:
+
+    - String = Conjunto de caracteres que formam uma palavra,  frase ou texto
+    - Number = é um conjunto de números.
+    - Boolean = Tipo primitivo que interpreta 'true' ou 'false'
+    - Undefined = valor não definido
+
+Podemos usar o 'typeof var' para poder saber o tipo primitivo dos dados.
+
+Para transformar a variável em outro tipo usamos 'Tipo(valor, var, etc)'
+
+    Exemplo:
+        Number("1") => 1
