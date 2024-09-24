@@ -35,3 +35,18 @@ Para transformar a variável em outro tipo usamos 'Tipo(valor, var, etc)'
 
     Exemplo:
         Number("1") => 1
+
+## Manipulando as Strings
+
+var.length = Método para informar a quantidade de caracteres.
+var.toUpperCase() = Método para deixar todas as letras maiúsculas.
+var.toLowerCase() = Método para deixar todas as letras minúsculas.
+
+
+Formatar na impressão de textos:
+    - 'Qualquer texto ${Chamar variável}'. 
+        ○ Exemplo: console.log('Qualquer texto ${Chamar variável}').
+
+document.write('mensagem') = Comando para inserir uma mensagem no HTML no qual está associado ao JS.
+
+Console.log('mensagem') = Comando para imprimir um texto no terminal.
