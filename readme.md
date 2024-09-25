@@ -50,3 +50,47 @@ Formatar na impressão de textos:
 document.write('mensagem') = Comando para inserir uma mensagem no HTML no qual está associado ao JS.
 
 Console.log('mensagem') = Comando para imprimir um texto no terminal.
+
+## Operadores Aritméticos
+
+Aritméticos
+    (): Para priorizar uma conta
+    **: exponenciação
+    * / %: Multiplicação, divisão e resto da divisão por inteiro
+    + - : Adição e Subtração
+
+Auto atribuição
+    Incrementando var += valor; 
+    Decrementando var -= valor; 
+    Incrementando um valor var++; 
+    Decrementado um valor var--;
+    
+    - Forma de alterar o valor da própria variável na variável 
+    
+    - Raiz quadrada = qualquer número elevado a 0.5 
+    
+Relacionais
+    > - Maior Que 
+    < - Menor Que 
+    >= - Maior Igual 
+    <= - Menor Igual 
+    == - Igual (Valor) 
+    != - Diferente 
+    === - Igual (Tipo) 
+
+Lógicos 
+    ! - Negação Diferente - (!=) 
+    && - Conjunção (e) 
+    || - Disjunção (ou) 
+    
+Ternário 
+    ? :  
+        ? - True 
+        :  False 
+        7 > 5? (caso verdadeiro executar):(caso falso executar) 
+
+Precedência 
+    1 = Relacionais 
+    2 = ! 
+    3 = && 
+    4 = ||
